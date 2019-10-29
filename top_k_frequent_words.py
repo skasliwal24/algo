@@ -10,4 +10,4 @@ if __name__ == '__main__':
         input(
             'Enter the amount of words to retreive based on their occurance: ')
     )
-    print(top_k_frequent_words(inpt, k))
+    print(top_k_frequent_words(inpt, k)) #output
