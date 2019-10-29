@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-using namespace std;//d
+using namespace std;
 typedef long long ll;
  
 #define TRACE
